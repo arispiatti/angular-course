@@ -1,1 +1,1 @@
-# angular-course
+browser-sync start --server --directory --files "**/*"
